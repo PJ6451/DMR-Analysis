@@ -2,8 +2,6 @@ def get_cols_to_keep():
     return [
         "Mine_ID",
         "MineName",
-        "X",
-        "Y",
         "Latitude",
         "Longitude",
         "ReportYear",
